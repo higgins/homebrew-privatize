@@ -4,7 +4,7 @@ class Getfilesize < Formula
   desc "Get Human Readable file size information. - CLI"
   homepage "https://github.com/bharathvaj-ganesan/getfilesize-cli"
   url "https://github.com/bharathvaj-ganesan/getfilesize-cli/releases/download/v1.0.1/getfilesize.tar.gz"
-  sha256 "c88d4e377877434fd81d94906d81c41ed05aeed93d97499010e6c09276a88369"
+  sha256 "6c03100f5b1f8e61f5d49efab759a2efcdbcc4ac2677fcf98e7317ec660e6994"
   license "MIT"
   version "1.0.1"
 
