@@ -11,6 +11,6 @@ class Getfilesize < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "getfilesize"
+    bin.install "getfilesize-cli"
   end
 end
