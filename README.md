@@ -1,3 +1,3 @@
 # homebrew-getfilesize
 
-Homebrew package for awesome [getfilesize](https://github.com/bharathvaj-ganesan/getfilesize-cli)
+Homebrew wrapper package for the awesome [getfilesize](https://github.com/bharathvaj-ganesan/getfilesize-cli)
