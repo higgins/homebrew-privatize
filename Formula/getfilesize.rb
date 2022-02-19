@@ -1,16 +1,14 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 class Getfilesize < Formula
-  desc "Get Human Readable file size information. - CLI"
-  homepage "https://github.com/bharathvaj-ganesan/getfilesize-cli"
-  url "https://github.com/bharathvaj-ganesan/getfilesize-cli/releases/download/v1.0.1/getfilesize.tar.gz"
-  sha256 "6c03100f5b1f8e61f5d49efab759a2efcdbcc4ac2677fcf98e7317ec660e6994"
-  license "MIT"
-  version "1.0.1"
-
-  # depends_on "cmake" => :build
+  desc "Partially encrypt/decrypt HEREDOCS. Automatically in git or standalone"
+  homepage "https://github.com/higgins/privatize"
+  url "https://github.com/higgins/privatize/releases/download/0.1.0/privatize.tar.gz"
+  sha256 "3c25b0156da32cc7cc6688fbdbf0c82994ee9f72968dea5398f2b5316c7f3ff3"
+  license "ISC"
+  version "0.1.0"
 
   def install
-    bin.install "getfilesize"
+    bin.install "privatize"
   end
 end
