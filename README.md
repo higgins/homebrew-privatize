@@ -1,3 +1,3 @@
-# homebrew-getfilesize
+# homebrew-privatize
 
-Homebrew wrapper package for the awesome [getfilesize](https://github.com/bharathvaj-ganesan/getfilesize-cli)
+Homebrew wrapper package for the awesome [privatize](https://github.com/higgins/privatize)
